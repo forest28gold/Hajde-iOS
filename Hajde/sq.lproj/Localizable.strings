@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Hajde
+
+  Created by AppsCreationTech on 7/3/16.
+  Copyright © 2016 David Cheung. All rights reserved.
+*/
+
+
+"tab_title_home"                        = "Ballina";
+"tab_title_my_profile"                  = "Profili im";
+"tab_title_karma_shop"                  = "Karma shop";
+"tab_title_more"                        = "Me shume";
+"alert"                                 = "Alarm";
+"ok"                                    = "OK";
+"karma"                                 = "Karma";
+"alert_allow_notification"              = "Ju lutem lejojë \"Hajde\" per te derguar ju njoftime.";
+"alert_network_error"                   = "lidhja e rrjetit eshtë e deshtuar. Ju lutem kontrolloni gjendjen e rrjetit dhe provoni perseri!";
+"comments"                              = "Komentet";
+"post_details"                          = "Detajet e postimit";
+"enter_comment"                         = "Dergo koment...";
+"abuse"                                 = "Abuzim   ";
+"alert_enter_comment"                   = "Ju lutem shkruani koment.";
+"alert_new_comment_failed"              = "Komenti eshte deshtuar. Ju lutemi të provoni përsëri!";
+"karma_increased"                       = "Karma yte eshte rritur";
+"karma_from_posting"                    = "Ju fituat Karma nga postimi";
+"karma_from_commenting"                 = "Ju fituat Karma nga komentimi";
+"karma_from_upvote_post"                = "Ju fituat Karma nga votimi nje postimit";
+"karma_from_downvote_post"              = "Ju fituat karma nga votimi nje postimit";
+"karma_from_upvote_comment"             = "Ju fituat Karma nga votimi nje komentit";
+"karma_from_downvote_comment"           = "Ju fituat Karma nga votimi nje komentit";
+"karma_from_report_post"                = "Ju fituat Karma nga raportimi nje postimit";
+"karma_from_report_comment"             = "Ju fituat Karma nga raportimi nje komentit";
+"karma_decreased"                       = "Ju humbet Karma";
+"karma_someone_downvote_comment"        = "Ju humbet Karma pershkak nje votimit ne komentin e juaj";
+"karma_someone_downvote_post"           = "Ju humbet Karma pershkak nje votimit ne postimin e juaj";
+"karma_comment_5_downvotes"             = "Ju humbet Karma pershkak komenti juaj ka arrit -5 ne votime";
+"karma_post_5_downvotes"                = "Ju humbet Karma pershkak postimi juaj ka arrit -5 ne votime";
+"karma_daily_add"                       = "Karma pike te perditshme";
+"karma_daily_login"                     = "Ju fituat Karma nga hyrjen te perditshme";
+"karma_delete_comment"                  = "Ju humbet Karma pershkak nje raportimit e komentit tuaj";
+"karma_delete_post"                     = "Ju humbet Karma pershkak nje raportimit e postimit tuaj";
+"ago"                                   = "me pare";
+"cancel"                                = "Anulo";
+"retake"                                = "Perserit";
+"use_photo"                             = "Zgjedhe foton";
+"saved_successfully"                    = "Ruajtur me sukses";
+"alert_new_posting_failed"              = "Postimi ka deshtuar. Provo perseri!";
+"share_yout_thoughts"                   = "Ndaje mendimin tende me njerez rreth 20 kilometrash...";
+"alert_input_post"                      = "Te lutem postoni input.";
+"tap_hold"                              = "Prekni dhe mbani";
+"recording_button_start"                = "butonin e incizimit per te filluar";
+"recording"                             = "Duke incizuar...";
+"recording_end"                         = "Incizimi ka perfunduar.";
+"alert_record_audio"                    = "Incizo tingullin perseri.";
+"off"                                   = "zbritje";
+"before"                                = "Me pare";
+"english"                               = "Anglisht";
+"albanian"                              = "Shqip";
+"enter_message"                         = "Enter message.";
+"alert_input_subject"                   = "Te lutem trego subject.";
+"alert_input_from_email"                = "Te lutem trego email.";
+"alert_input_from_email_correctly"      = "Te lutem trego emailin sakte.";
+"alert_input_to_email"                  = "Te lutem trego email.";
+"alert_input_to_email_correctly"        = "Te lutem trego emailin sakte.";
+"alert_input_message"                   = "Te lutem trego mesazhin.";
+"alert_device_doesnt_support_sms"       = "Pajisja juaj nuk e mbeshtet SMS!";
+"alert_failed_sms"                      = "Deshtoi per te derguar SMS!";
+"signup_hajde"                          = "Regjistrohu ne Hajde.";
+"alert_invite_sent"                     = "Ju keni derguar ftese per miqte tuaj me sukses!";
+"ios_post_deleted"                      = "Postimi yt eshte fshire";
+"ios_comment_deleted"                   = "Komenti yt eshte fshire";
+"post"                                  = "postimi";
+"comment"                               = "komenti";
+"downvotes"                             = "votime";
+"downvote"                              = "votimit";
+"report"                                = "raportimit";
+"please_wait"                           = "Te lutem prit...";
+
+
+

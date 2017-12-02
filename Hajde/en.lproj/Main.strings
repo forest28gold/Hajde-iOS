@@ -1,0 +1,588 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1GG-Ur-T7F"; */
+"1GG-Ur-T7F.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "1NG-Ah-maN"; */
+"1NG-Ah-maN.text" = "0:05";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "1ai-QU-1WF"; */
+"1ai-QU-1WF.text" = "1";
+
+/* Class = "UILabel"; text = "My Comments"; ObjectID = "1yH-fr-XeV"; */
+"1yH-fr-XeV.text" = "My Comments";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "25f-1a-HkZ"; */
+"25f-1a-HkZ.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Most votes"; ObjectID = "2Tk-x5-or4"; */
+"2Tk-x5-or4.normalTitle" = "Most votes";
+
+/* Class = "UITextField"; placeholder = "youremail@here.com"; ObjectID = "2VY-b4-ctG"; */
+"2VY-b4-ctG.placeholder" = "youremail@here.com";
+
+/* Class = "UILabel"; text = "$2495.-"; ObjectID = "30p-HW-8Dw"; */
+"30p-HW-8Dw.text" = "$2495.-";
+
+/* Class = "UILabel"; text = "Record a sound"; ObjectID = "48g-Ve-tFL"; */
+"48g-Ve-tFL.text" = "Record a sound";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4bo-XG-1hE"; */
+"4bo-XG-1hE.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Newest"; ObjectID = "4d1-T3-g8q"; */
+"4d1-T3-g8q.normalTitle" = "Newest";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "4hd-XS-OVh"; */
+"4hd-XS-OVh.text" = "10 mins";
+
+/* Class = "UILabel"; text = "Time spent on Hajde"; ObjectID = "5BW-PV-2Ws"; */
+"5BW-PV-2Ws.text" = "Time spent on Hajde";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5IX-7r-2JL"; */
+"5IX-7r-2JL.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Samsung"; ObjectID = "5Jv-7U-Mcm"; */
+"5Jv-7U-Mcm.text" = "Samsung";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "5Md-50-3CP"; */
+"5Md-50-3CP.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "There are no my votes"; ObjectID = "6MT-0l-fT4"; */
+"6MT-0l-fT4.text" = "There are no my votes";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "6f9-AV-D6w"; */
+"6f9-AV-D6w.text" = "900K";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6go-pc-UAc"; */
+"6go-pc-UAc.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "6o0-aI-6mJ"; */
+"6o0-aI-6mJ.text" = "900K";
+
+/* Class = "UIButton"; normalTitle = "terms of use"; ObjectID = "72h-52-asC"; */
+"72h-52-asC.normalTitle" = "terms of service";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "7vM-0I-fHP"; */
+"7vM-0I-fHP.text" = "0:05";
+
+/* Class = "UIButton"; normalTitle = "Albanian"; ObjectID = "8ED-Eb-TTb"; */
+"8ED-Eb-TTb.normalTitle" = "Albanian";
+
+/* Class = "UILabel"; text = "10% off"; ObjectID = "8m6-yM-Ns8"; */
+"8m6-yM-Ns8.text" = "10% off";
+
+/* Class = "UILabel"; text = "Swipe left or right to change post color"; ObjectID = "9RR-m7-UsG"; */
+"9RR-m7-UsG.text" = "Swipe left or right to change post color";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "AD9-hF-28E"; */
+"AD9-hF-28E.text" = "900K";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "AJA-1d-uJE"; */
+"AJA-1d-uJE.text" = "900K";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "AUg-8Z-oyU"; */
+"AUg-8Z-oyU.text" = "10 mins";
+
+/* Class = "UILabel"; text = "My Votes"; ObjectID = "Anl-wD-NGn"; */
+"Anl-wD-NGn.text" = "My Votes";
+
+/* Class = "UILabel"; text = "My profile"; ObjectID = "Brx-ZN-WNY"; */
+"Brx-ZN-WNY.text" = "My profile";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "Bsc-je-JlT"; */
+"Bsc-je-JlT.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Like us and follow via"; ObjectID = "BvO-5L-vmd"; */
+"BvO-5L-vmd.text" = "Like us and follow via";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "CLX-cw-vDy"; */
+"CLX-cw-vDy.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "CmE-Bt-3GG"; */
+"CmE-Bt-3GG.text" = "10 mins";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "DAI-NI-FpG"; */
+"DAI-NI-FpG.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "+100"; ObjectID = "DPv-TL-EF7"; */
+"DPv-TL-EF7.text" = "+100";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "DyI-p9-05R"; */
+"DyI-p9-05R.text" = "10 mins";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FOY-Ea-f0k"; */
+"FOY-Ea-f0k.text" = "0";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "FOk-yz-ejS"; */
+"FOk-yz-ejS.text" = "Feedback";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "GLB-V5-tiU"; */
+"GLB-V5-tiU.text" = "Home";
+
+/* Class = "UILabel"; text = "Samsung Galaxy S6 Edge"; ObjectID = "GQS-bD-G3E"; */
+"GQS-bD-G3E.text" = "Samsung Galaxy S6 Edge";
+
+/* Class = "UIButton"; normalTitle = "Offers"; ObjectID = "Gar-dI-aL7"; */
+"Gar-dI-aL7.normalTitle" = "Offers";
+
+/* Class = "UILabel"; text = "Post details"; ObjectID = "Gh0-Lo-djt"; */
+"Gh0-Lo-djt.text" = "Post details";
+
+/* Class = "UIButton"; normalTitle = "I love Hajde"; ObjectID = "Gyk-Im-QDq"; */
+"Gyk-Im-QDq.normalTitle" = "I love Hajde";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "HQQ-un-vVf"; */
+"HQQ-un-vVf.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "HjA-EE-GTh"; */
+"HjA-EE-GTh.text" = "10 mins";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "Hmc-g9-206"; */
+"Hmc-g9-206.text" = "Message";
+
+/* Class = "UILabel"; text = "Can't load Terms of Use"; ObjectID = "HoV-sj-5Tz"; */
+"HoV-sj-5Tz.text" = "Can't load Legal Agreements";
+
+/* Class = "UILabel"; text = "There are no most votes"; ObjectID = "Hpg-KV-cyA"; */
+"Hpg-KV-cyA.text" = "There are no most votes";
+
+/* Class = "UIButton"; normalTitle = "Go to the offer"; ObjectID = "HsG-BW-JPM"; */
+"HsG-BW-JPM.normalTitle" = "Go to the offer";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "I40-6e-1GB"; */
+"I40-6e-1GB.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "JR2-qB-yQl"; */
+"JR2-qB-yQl.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "JWN-xm-2h8"; */
+"JWN-xm-2h8.text" = "900K";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "Jpf-vh-jxZ"; */
+"Jpf-vh-jxZ.text" = "900K";
+
+/* Class = "UILabel"; text = "Samsung"; ObjectID = "Jst-vE-Ds2"; */
+"Jst-vE-Ds2.text" = "Samsung";
+
+/* Class = "UILabel"; text = "There are no offers"; ObjectID = "JtM-vl-VvT"; */
+"JtM-vl-VvT.text" = "There are no offers";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Jvf-0P-2B5"; */
+"Jvf-0P-2B5.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "KFv-fR-nW4"; */
+"KFv-fR-nW4.text" = "10000km";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "KJr-kD-SNm"; */
+"KJr-kD-SNm.text" = "900K";
+
+/* Class = "UILabel"; text = "Share your thoughts, read new posts,"; ObjectID = "KR9-Fp-cEt"; */
+"KR9-Fp-cEt.text" = "Share your thoughts, read new posts,";
+
+/* Class = "UILabel"; text = "Can't load What's Karma"; ObjectID = "KXW-ge-0fW"; */
+"KXW-ge-0fW.text" = "Can't load What's Karma";
+
+/* Class = "UILabel"; text = "recording button to start"; ObjectID = "L7G-QW-VZ6"; */
+"L7G-QW-VZ6.text" = "recording button to start";
+
+/* Class = "UILabel"; text = "Phone spec & price"; ObjectID = "LBi-94-LQI"; */
+"LBi-94-LQI.text" = "Phone spec & price";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "LDL-0b-xJR"; */
+"LDL-0b-xJR.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "NGo-5t-R8y"; */
+"NGo-5t-R8y.text" = "Hours";
+
+/* Class = "UILabel"; text = "324"; ObjectID = "NRh-rv-cyj"; */
+"NRh-rv-cyj.text" = "324";
+
+/* Class = "UILabel"; text = "We can change general rules, terms of use and conditions at anytime.   Whenever general rules are changed, we will notify our users           about changes."; ObjectID = "NeG-lm-dZm"; */
+"NeG-lm-dZm.text" = "We can change general rules, terms of use and conditions at anytime.   Whenever general rules are changed, we will notify our users           about changes.";
+
+/* Class = "UILabel"; text = "Your Karma"; ObjectID = "Nga-qt-GUu"; */
+"Nga-qt-GUu.text" = "Your Karma";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "ODl-ha-Nz1"; */
+"ODl-ha-Nz1.text" = "900K";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "OOl-ga-I2D"; */
+"OOl-ga-I2D.text" = "10 mins";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "OR3-PA-wkd"; */
+"OR3-PA-wkd.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Newest"; ObjectID = "ObC-9H-W7O"; */
+"ObC-9H-W7O.normalTitle" = "Newest";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "P7Y-tx-a9P"; */
+"P7Y-tx-a9P.text" = "Please tap image to refresh";
+
+/* Class = "UIButton"; normalTitle = "Go to the offers!"; ObjectID = "PQX-Uy-13I"; */
+"PQX-Uy-13I.normalTitle" = "Go to the offers!";
+
+/* Class = "UILabel"; text = "Your Karma has been increased"; ObjectID = "PUW-Ut-f6H"; */
+"PUW-Ut-f6H.text" = "Your Karma has been increased";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "Pfq-Md-QVC"; */
+"Pfq-Md-QVC.text" = "and";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "Pss-6E-b5D"; */
+"Pss-6E-b5D.text" = "900K";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "QV6-fJ-pFF"; */
+"QV6-fJ-pFF.text" = "0:05";
+
+/* Class = "UILabel"; text = "before $2999.-"; ObjectID = "QbN-qK-vDi"; */
+"QbN-qK-vDi.text" = "before $2999.-";
+
+/* Class = "UILabel"; text = "By clicking Get Started you accept"; ObjectID = "Qtv-Ll-z9r"; */
+"Qtv-Ll-z9r.text" = "By clicking Get Started you accept";
+
+/* Class = "UITextView"; text = "Share your thoughts with people in the radius of 20 kilometers..."; ObjectID = "RY4-sv-tn4"; */
+"RY4-sv-tn4.text" = "Share your thoughts with people in the radius of 20 kilometers...";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "RcC-C8-LcF"; */
+"RcC-C8-LcF.text" = "10000km";
+
+/* Class = "UILabel"; text = "$2495.-"; ObjectID = "SEO-5u-5os"; */
+"SEO-5u-5os.text" = "$2495.-";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "TCd-Bh-IGJ"; */
+"TCd-Bh-IGJ.text" = "10000km";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "TOk-Hr-NO8"; */
+"TOk-Hr-NO8.text" = "10 mins";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "TYC-5A-TgF"; */
+"TYC-5A-TgF.text" = "0";
+
+/* Class = "UILabel"; text = "Create a post"; ObjectID = "UBg-yq-oYY"; */
+"UBg-yq-oYY.text" = "Create a post";
+
+/* Class = "UILabel"; text = "My comments"; ObjectID = "UBk-4K-uoC"; */
+"UBk-4K-uoC.text" = "My comments";
+
+/* Class = "UILabel"; text = "There are no most commented"; ObjectID = "V2f-0M-Dou"; */
+"V2f-0M-Dou.text" = "There are no most commented";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "VLa-ZL-Qeg"; */
+"VLa-ZL-Qeg.text" = "Language";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "VbM-EV-1NK"; */
+"VbM-EV-1NK.text" = "10 mins";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "Vfn-SU-xXl"; */
+"Vfn-SU-xXl.text" = "18";
+
+/* Class = "UILabel"; text = "My Posts"; ObjectID = "XRV-3q-HEh"; */
+"XRV-3q-HEh.text" = "My Posts";
+
+/* Class = "UILabel"; text = "44"; ObjectID = "YDU-18-R9X"; */
+"YDU-18-R9X.text" = "44";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "YIU-Wk-fey"; */
+"YIU-Wk-fey.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "To : Hajde Feedback & Support "; ObjectID = "YOa-GO-cGb"; */
+"YOa-GO-cGb.text" = "To : Hajde Feedback & Support ";
+
+/* Class = "UILabel"; text = "Andrew lean"; ObjectID = "Yd7-Sa-pWb"; */
+"Yd7-Sa-pWb.text" = "Andrew lean";
+
+/* Class = "UILabel"; text = "124"; ObjectID = "ZLs-MK-KAb"; */
+"ZLs-MK-KAb.text" = "124";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "ZYk-hS-bSH"; */
+"ZYk-hS-bSH.text" = "10000km";
+
+/* Class = "UILabel"; text = "Your Karma"; ObjectID = "ZZM-sj-nPC"; */
+"ZZM-sj-nPC.text" = "Your Karma";
+
+/* Class = "UILabel"; text = "A maximum of 15 seconds are allowed!"; ObjectID = "Zvj-u7-Aga"; */
+"Zvj-u7-Aga.text" = "A maximum of 15 seconds are allowed!";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "aCT-yc-OWg"; */
+"aCT-yc-OWg.text" = "Subject";
+
+/* Class = "UITextView"; text = "Enter message."; ObjectID = "aG3-5v-hgJ"; */
+"aG3-5v-hgJ.text" = "Enter message.";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "aN4-S8-Zef"; */
+"aN4-S8-Zef.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "abc-aN-jgk"; */
+"abc-aN-jgk.text" = "900K";
+
+/* Class = "UILabel"; text = "There are no your karma"; ObjectID = "adt-lg-Aty"; */
+"adt-lg-Aty.text" = "There are no your karma";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "afH-Ue-WjR"; */
+"afH-Ue-WjR.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "My Karma"; ObjectID = "aiS-vX-WQz"; */
+"aiS-vX-WQz.text" = "My Karma";
+
+/* Class = "UIButton"; normalTitle = "What's Karma?"; ObjectID = "bBJ-F3-pA2"; */
+"bBJ-F3-pA2.normalTitle" = "What's Karma?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "biY-jA-azR"; */
+"biY-jA-azR.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "bw0-Xv-Udr"; */
+"bw0-Xv-Udr.text" = "900K";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "cUO-PB-1FC"; */
+"cUO-PB-1FC.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "cas-8l-RFc"; */
+"cas-8l-RFc.text" = "0:05";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cdQ-Wu-FQ0"; */
+"cdQ-Wu-FQ0.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cqx-8C-nAd"; */
+"cqx-8C-nAd.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "crj-F9-Uoz"; */
+"crj-F9-Uoz.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "d0a-re-NnQ"; */
+"d0a-re-NnQ.text" = "900K";
+
+/* Class = "UILabel"; text = "What is Karma?"; ObjectID = "dFQ-gg-fUU"; */
+"dFQ-gg-fUU.text" = "What is Karma?";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "dO4-yE-JmU"; */
+"dO4-yE-JmU.text" = "900K";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dbG-c5-EXf"; */
+"dbG-c5-EXf.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "phone, gadged, smartphone"; ObjectID = "dlw-ED-Tn2"; */
+"dlw-ED-Tn2.text" = "phone, gadged, smartphone";
+
+/* Class = "UILabel"; text = "before $2999.-"; ObjectID = "dum-HP-hSp"; */
+"dum-HP-hSp.text" = "before $2999.-";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "e72-sh-1mw"; */
+"e72-sh-1mw.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "emj-rV-8Op"; */
+"emj-rV-8Op.text" = "900K";
+
+/* Class = "UILabel"; text = "phone, gadged, smartphone"; ObjectID = "eyt-cF-TEU"; */
+"eyt-cF-TEU.text" = "phone, gadged, smartphone";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "f1M-Re-pmR"; */
+"f1M-Re-pmR.text" = "900K";
+
+/* Class = "UIButton"; normalTitle = "Invite friends"; ObjectID = "fHo-Zq-dBq"; */
+"fHo-Zq-dBq.normalTitle" = "Invite friends";
+
+/* Class = "UIButton"; normalTitle = "privacy policy"; ObjectID = "fd8-QT-iNB"; */
+"fd8-QT-iNB.normalTitle" = "privacy policy";
+
+/* Class = "UILabel"; text = "You can now preview your recording"; ObjectID = "g5O-cb-Aex"; */
+"g5O-cb-Aex.text" = "You can now preview your recording";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "gON-YG-cJh"; */
+"gON-YG-cJh.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "1000km"; ObjectID = "gR6-V3-kzS"; */
+"gR6-V3-kzS.text" = "1000km";
+
+/* Class = "UILabel"; text = "There are no newest"; ObjectID = "gV4-MS-iZx"; */
+"gV4-MS-iZx.text" = "There are no newest";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "hDW-25-EyK"; */
+"hDW-25-EyK.text" = "10000km";
+
+/* Class = "UILabel"; text = "0:09"; ObjectID = "hdy-BY-UML"; */
+"hdy-BY-UML.text" = "0:09";
+
+/* Class = "UILabel"; text = "From (your email address)"; ObjectID = "heH-4A-GEI"; */
+"heH-4A-GEI.text" = "From (your email address)";
+
+/* Class = "UILabel"; text = "My posts"; ObjectID = "jGz-km-YjP"; */
+"jGz-km-YjP.text" = "My posts";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "jYn-Qf-EBP"; */
+"jYn-Qf-EBP.text" = "0:05";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "jvy-F3-p38"; */
+"jvy-F3-p38.text" = "10000km";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "k2f-5y-db7"; */
+"k2f-5y-db7.text" = "0:05";
+
+/* Class = "UILabel"; text = "My votes"; ObjectID = "kk6-dq-qod"; */
+"kk6-dq-qod.text" = "My votes";
+
+/* Class = "UIButton"; normalTitle = "Most commented"; ObjectID = "l4G-uk-0iw"; */
+"l4G-uk-0iw.normalTitle" = "Most commented";
+
+/* Class = "UILabel"; text = "Samsung Galaxy S6 Edge"; ObjectID = "lRI-zf-QOm"; */
+"lRI-zf-QOm.text" = "Samsung Galaxy S6 Edge";
+
+/* Class = "UILabel"; text = "There are no newest"; ObjectID = "lo6-pB-j4S"; */
+"lo6-pB-j4S.text" = "There are no newest";
+
+/* Class = "UILabel"; text = "Discover offers"; ObjectID = "nXu-C0-APP"; */
+"nXu-C0-APP.text" = "Discover offers";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "nki-4j-1oH"; */
+"nki-4j-1oH.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "oaI-Qd-Rdd"; */
+"oaI-Qd-Rdd.text" = "900K";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "otC-B7-MFr"; */
+"otC-B7-MFr.text" = "0:05";
+
+/* Class = "UILabel"; text = "Tap and hold"; ObjectID = "p5Y-nl-BPK"; */
+"p5Y-nl-BPK.text" = "Tap and hold";
+
+/* Class = "UILabel"; text = "reviews and images from people nearby."; ObjectID = "pyo-tz-7nY"; */
+"pyo-tz-7nY.text" = "reviews and images from people nearby.";
+
+/* Class = "UILabel"; text = "10% off"; ObjectID = "qDJ-pB-vbH"; */
+"qDJ-pB-vbH.text" = "10% off";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "qhD-nf-af2"; */
+"qhD-nf-af2.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "rHX-65-2rh"; */
+"rHX-65-2rh.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "rKB-Bh-gJE"; */
+"rKB-Bh-gJE.text" = "10000km";
+
+/* Class = "UILabel"; text = "There are no most votes"; ObjectID = "rSC-sx-BHZ"; */
+"rSC-sx-BHZ.text" = "There are no most votes";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "rYp-6S-Gob"; */
+"rYp-6S-Gob.normalTitle" = "Feedback";
+
+/* Class = "UILabel"; text = "43 min ago"; ObjectID = "rd1-Zq-6hA"; */
+"rd1-Zq-6hA.text" = "43 min ago";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "sAD-bn-kTx"; */
+"sAD-bn-kTx.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "There are no my comment"; ObjectID = "sJ3-ic-fFd"; */
+"sJ3-ic-fFd.text" = "There are no my comment";
+
+/* Class = "UILabel"; text = "307"; ObjectID = "sMm-5R-761"; */
+"sMm-5R-761.text" = "307";
+
+/* Class = "UIButton"; normalTitle = "Most commented"; ObjectID = "srv-Ds-CfY"; */
+"srv-Ds-CfY.normalTitle" = "Most commented";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tFI-ib-vB8"; */
+"tFI-ib-vB8.text" = "0";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "tZ1-ha-lsl"; */
+"tZ1-ha-lsl.text" = "0:05";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "tbG-pp-dOP"; */
+"tbG-pp-dOP.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Most votes"; ObjectID = "tc4-wH-lMJ"; */
+"tc4-wH-lMJ.normalTitle" = "Most votes";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "tcM-kx-4Oq"; */
+"tcM-kx-4Oq.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "0:05"; ObjectID = "tgr-sp-5gB"; */
+"tgr-sp-5gB.text" = "0:05";
+
+/* Class = "UIButton"; normalTitle = "Legal Agreements"; ObjectID = "ttu-QL-GRm"; */
+"ttu-QL-GRm.normalTitle" = "Legal Agreements";
+
+/* Class = "UILabel"; text = "Swipe left or right to change post color"; ObjectID = "tva-sQ-h5R"; */
+"tva-sQ-h5R.text" = "Swipe left or right to change post color";
+
+/* Class = "UILabel"; text = "Your Karma"; ObjectID = "u0H-V2-OnW"; */
+"u0H-V2-OnW.text" = "Your Karma";
+
+/* Class = "UILabel"; text = "Your Karma"; ObjectID = "u4Q-Vr-SXN"; */
+"u4Q-Vr-SXN.text" = "Your Karma";
+
+/* Class = "UITextField"; placeholder = "support@hajde.com"; ObjectID = "uKC-OK-KaE"; */
+"uKC-OK-KaE.placeholder" = "support@hajdeapp.com";
+
+/* Class = "UITextField"; text = "support@hajde-app.com"; ObjectID = "uKC-OK-KaE"; */
+"uKC-OK-KaE.text" = "support@hajdeapp.com";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "uT2-HO-XZ0"; */
+"uT2-HO-XZ0.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "uhU-D6-hSN"; */
+"uhU-D6-hSN.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Can't load Privacy policy"; ObjectID = "v4a-gA-CUI"; */
+"v4a-gA-CUI.text" = "Can't load Privacy policy";
+
+/* Class = "UILabel"; text = "There are no offers"; ObjectID = "vD1-rb-HK5"; */
+"vD1-rb-HK5.text" = "There are no offers";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "vRH-9Z-efw"; */
+"vRH-9Z-efw.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "753-783-3478"; ObjectID = "vhW-xC-ByU"; */
+"vhW-xC-ByU.text" = "753-783-3478";
+
+/* Class = "UIButton"; normalTitle = "Offers"; ObjectID = "vmy-pD-ATj"; */
+"vmy-pD-ATj.normalTitle" = "Offers";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "wMy-3U-fF8"; */
+"wMy-3U-fF8.text" = "Minutes";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "wpb-Gg-8la"; */
+"wpb-Gg-8la.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "wq1-dI-R6y"; */
+"wq1-dI-R6y.text" = "Days";
+
+/* Class = "UITextField"; placeholder = "Subject tile goes here"; ObjectID = "wr9-Na-BGw"; */
+"wr9-Na-BGw.placeholder" = "Subject title goes here";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "x6D-LT-ae5"; */
+"x6D-LT-ae5.text" = "900K";
+
+/* Class = "UILabel"; text = "Samsung Galaxy S6 Edge"; ObjectID = "xVs-jD-D0p"; */
+"xVs-jD-D0p.text" = "Samsung Galaxy S6 Edge";
+
+/* Class = "UILabel"; text = "10 mins"; ObjectID = "xnc-IO-hOc"; */
+"xnc-IO-hOc.text" = "10 mins";
+
+/* Class = "UILabel"; text = "Invite firends"; ObjectID = "yD8-8u-Wvx"; */
+"yD8-8u-Wvx.text" = "Invite firends";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "yHX-Oi-GRu"; */
+"yHX-Oi-GRu.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "900K"; ObjectID = "yI8-um-83A"; */
+"yI8-um-83A.text" = "900K";
+
+/* Class = "UILabel"; text = "There are no most commented"; ObjectID = "yqf-Zf-sY2"; */
+"yqf-Zf-sY2.text" = "There are no most commented";
+
+/* Class = "UILabel"; text = "All anonymously!"; ObjectID = "yvC-Ms-686"; */
+"yvC-Ms-686.text" = "All anonymously!";
+
+/* Class = "UILabel"; text = "Hajde App version 1.0.8"; ObjectID = "yvj-Od-vdS"; */
+"yvj-Od-vdS.text" = "Hajde App version 1.0.8";
+
+/* Class = "UILabel"; text = "Record a sound"; ObjectID = "z2k-HZ-9vt"; */
+"z2k-HZ-9vt.text" = "Record a sound";
+
+/* Class = "UILabel"; text = "Please tap image to refresh"; ObjectID = "zeC-tH-2Ew"; */
+"zeC-tH-2Ew.text" = "Please tap image to refresh";
+
+/* Class = "UILabel"; text = "10000km"; ObjectID = "zoB-Yu-U6q"; */
+"zoB-Yu-U6q.text" = "10000km";
+
+/* Class = "UILabel"; text = "You received Karma from commenting 3 posts in 1 hour"; ObjectID = "ztU-3b-2yD"; */
+"ztU-3b-2yD.text" = "You received Karma from commenting 3 posts in 1 hour";

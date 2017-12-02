@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate application:didFailToRegisterForRemoteNotificationsWithError:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HDMyCommentsViewController onReportCommentAbuse:]:HDMyCommentsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__43-[HDNewImageViewController captureBtnClick]_block_invoke:HDNewImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_selectedImage.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "__57+[HDUtility dislikePostInBackground:indexPath:dataArray:]_block_invoke_2.275:HDUtility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "res.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__58-[HDGetStartedViewController loginWithAnonymous:password:]_block_invoke:HDGetStartedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDImageEditViewController onSend:]:HDImageEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDImageEditViewController onSave:]:HDImageEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size">
+            </PersistentString>
+            <PersistentString
+               value = "imgPostWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDNewestPostsViewController tableView:cellForRowAtIndexPath:]:HDNewestPostsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDImageEditViewController emojiPopover:didClickedOnCharacter:characterX:characterY:]:HDImageEditViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__49-[HDPostDetailsViewController onReportPostAbuse:]_block_invoke:HDPostDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_postData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SYEmojiPopover createView]:SYEmojiPopover.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HDPostDetailsViewController tableView:cellForRowAtIndexPath:]:HDPostDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_postData">
+            </PersistentString>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__51-[HDMyCommentsViewController initLoadMyCommentData]_block_invoke:HDMyCommentsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HDNewPostViewController textView:shouldChangeTextInRange:replacementText:]:HDNewPostViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.text.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDNewestPostsViewController tableView:didSelectRowAtIndexPath:]:HDNewestPostsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_postData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HDImageEditViewController viewDidLoad]:HDImageEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgPostWidth">
+            </PersistentString>
+            <PersistentString
+               value = "image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[StartViewController publish]:StartViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HDNewestPostsViewController viewDidLoad]:HDNewestPostsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SYEmojiPopoverCell emojiButtonTapped:]:SYEmojiPopover.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "btn.frame">
+            </PersistentString>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_emojiX">
+            </PersistentString>
+            <PersistentString
+               value = "btn.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_emojiY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GlobalData getDailyLoginIsOn:createdTime:]:GlobalData.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLoginTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__59-[HDGetStartedViewController signupWithAnonymous:password:]_block_invoke:HDGetStartedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didReceiveRemoteNotification:fetchCompletionHandler:]:AppDelegate.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

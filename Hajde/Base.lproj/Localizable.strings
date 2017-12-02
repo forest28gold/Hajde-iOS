@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Hajde
+
+  Created by AppsCreationTech on 7/3/16.
+  Copyright © 2016 David Cheung. All rights reserved.
+*/
+
+
+"tab_title_home"                        = "Home";
+"tab_title_my_profile"                  = "My profile";
+"tab_title_karma_shop"                  = "Karma shop";
+"tab_title_more"                        = "More";
+"alert"                                 = "Alert";
+"ok"                                    = "OK";
+"karma"                                 = "Karma";
+"alert_allow_notification"              = "Please allow \"Hajde\" to send you notification.";
+"alert_network_error"                   = "Network connection is failed. Please check your network state and try again!";
+"comments"                              = "Comments";
+"post_details"                          = "Post Details";
+"enter_comment"                         = "Enter comment...";
+"abuse"                                 = "Abuse   ";
+"alert_enter_comment"                   = "Please enter comment.";
+"alert_new_comment_failed"              = "New Comment is failed. Please try again!";
+"karma_increased"                       = "Your Karma has been increased";
+"karma_from_posting"                    = "You received Karma from posting";
+"karma_from_commenting"                 = "You received karma from commenting";
+"karma_from_upvote_post"                = "You received karma from upvote a post";
+"karma_from_downvote_post"              = "You received karma from downvote a post";
+"karma_from_upvote_comment"             = "You received karma from upvote a comment";
+"karma_from_downvote_comment"           = "You received karma from downvote a comment";
+"karma_from_report_post"                = "You received Karma from reporting of a post";
+"karma_from_report_comment"             = "You received Karma from reporting of a comment";
+"karma_decreased"                       = "Your Karma has been decreased";
+"karma_someone_downvote_comment"        = "You lost Karma because someone downvote your comment";
+"karma_someone_downvote_post"           = "You lost Karma because someone downvote your post";
+"karma_comment_5_downvotes"             = "You lost Karma because your comment reached -5 downvotes";
+"karma_post_5_downvotes"                = "You lost Karma because your post reached -5 downvotes";
+"karma_daily_add"                       = "Daily Karma add";
+"karma_daily_login"                     = "You received karma from daily login";
+"karma_delete_comment"                  = "You lost karma because someone report your comment";
+"karma_delete_post"                     = "You lost karma because someone report your post";
+"ago"                                   = "ago";
+"cancel"                                = "Cancel";
+"retake"                                = "Retake";
+"use_photo"                             = "Use Photo";
+"saved_successfully"                    = "Saved successfully";
+"alert_new_posting_failed"              = "New posting is failed. Please try again!";
+"share_yout_thoughts"                   = "Share your thoughts with people in the radius of 20 kilometers...";
+"alert_input_post"                      = "Please input post.";
+"tap_hold"                              = "Tap and hold";
+"recording_button_start"                = "recording button to start";
+"recording"                             = "Recording...";
+"recording_end"                         = "Recording is end.";
+"alert_record_audio"                    = "Please record audio again.";
+"off"                                   = "off";
+"before"                                = "before";
+"english"                               = "English";
+"albanian"                              = "Albanian";
+"enter_message"                         = "Enter message.";
+"alert_input_subject"                   = "Please input subject.";
+"alert_input_from_email"                = "Please input from email.";
+"alert_input_from_email_correctly"      = "Please input from email correctly.";
+"alert_input_to_email"                  = "Please input to email.";
+"alert_input_to_email_correctly"        = "Please input to email correctly.";
+"alert_input_message"                   = "Please input message.";
+"alert_device_doesnt_support_sms"       = "Your device doesn't support SMS!";
+"alert_failed_sms"                      = "Failed to send SMS!";
+"signup_hajde"                          = "Sign up to Hajde app.";
+"alert_invite_sent"                     = "You sent invitation to your friends successfully!";
+"ios_post_deleted"                      = "Your post is deleted";
+"ios_comment_deleted"                   = "Your comment is deleted";
+"post"                                  = "post";
+"comment"                               = "comment";
+"downvotes"                             = "downvotes";
+"downvote"                              = "downvote";
+"report"                                = "report";
+"please_wait"                           = "Please wait...";
+
+

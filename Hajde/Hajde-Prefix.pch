@@ -1,0 +1,49 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <SVProgressHUD.h>
+    #import <UIColor-HexString/UIColor+HexString.h>
+    #import <AudioToolbox/AudioToolbox.h>
+    #import <AVFoundation/AVFoundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <CoreLocation/CoreLocation.h>
+    #import <SDWebImage/UIImageView+WebCache.h>
+    #import "UITableView+DragLoad.h"
+    #import "Backendless.h"
+    #import "AudioPlayer.h"
+    #import "AudioButton.h"
+    #import "NSBundle.h"
+
+    #import "Global.h"
+    #import "GlobalData.h"
+    #import "DataModel.h"
+    #import "DBHandler.h"
+    #import "HDUtility.h"
+
+    #import "TermsOfUse.h"
+    #import "WhatsKarma.h"
+    #import "Post.h"
+    #import "ActivityPost.h"
+    #import "Karma.h"
+    #import "Shop.h"
+    #import "Offer.h"
+
+    #import "UserData.h"
+    #import "PostData.h"
+    #import "ActivityPostData.h"
+    #import "InviteFriendData.h"
+
+
+#endif
